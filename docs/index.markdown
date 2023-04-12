@@ -13,11 +13,13 @@ with their peers, discover campus happenings, and share live commentary.
 
 Access to gritchat.com is granted only to those with valid MyUMBC credentials. Users may choose to post anonymously, or under a display name of their choice.
 
+We only use your MyUMBC login to create a profile based on your name, campus id, and username. No other information related to you is collected.
+
 Profanity is allowed, but messages involving hate speech, racism, or threats of any kind are strictly prohibited.
 
 # Team Bonfire
 
-GritChat was developed by Team Bonfire.
+GritChat was developed by a group of UMBC students called Team Bonfire. Our mission is to create things that bring people together in time where technology drives us apart.
 
 **Robert Emmet** *Project Lead, Systems Architect* | [GitHub](https://github.com/remmet) | [LinkedIn](https://www.linkedin.com/in/robert-e-95404513b/)
 **Abdulsalam O. Odetayo** *Software Engineer* | [GitHub](https://github.com/Heyeso) | [LinkedIn](https://www.linkedin.com/in/abdulsalam-odetayo-87ba72202/)
@@ -28,6 +30,8 @@ With Special Thanks to:
 Nikola Bura
 
 Noodle
+
+# Our lawyers told us we need the following terms at the bare minimum. TL;DR: We do not sell data & You are solely responsible for your posts on GritChat.
 
 
 # Terms of Use
