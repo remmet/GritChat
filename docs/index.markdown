@@ -22,7 +22,7 @@ Profanity is allowed, but messages involving hate speech, racism, or threats of 
 GritChat was developed by a group of UMBC students called Team Bonfire. Our mission is to create things that bring people together in time where technology drives us apart.
 
 **Robert Emmet** *Project Lead, Systems Architect* | [GitHub](https://github.com/remmet) | [LinkedIn](https://www.linkedin.com/in/robert-e-95404513b/)
-**Abdulsalam O. Odetayo** *Software Engineer* | [GitHub](https://github.com/Heyeso) | [LinkedIn](https://www.linkedin.com/in/abdulsalam-odetayo-87ba72202/)
+**Abdulsalam O. Odetayo** *Project Manager, Software Engineer* | [GitHub](https://github.com/Heyeso) | [LinkedIn](https://www.linkedin.com/in/abdulsalam-odetayo-87ba72202/)
 **Michael Parchment** *Front-End Engineer* | [GitHub](https://github.com/mparchment) | [LinkedIn](https://www.linkedin.com/in/michael-parchment-243944213/)
 
 With Special Thanks to:
